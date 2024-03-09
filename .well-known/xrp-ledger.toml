@@ -1,42 +1,17 @@
-# See https://xrpl.org/xrp-ledger-toml.html
-#
-# This was taken from:
-# https://github.com/XRPLF/xrpl-dev-portal/blob/c8457d5726c4815c5ca6d1e8d7b22785a051a2e8/content/references/xrp-ledger-toml.md
-#
-#
-# Example xrp-ledger.toml file. These contents should not be considered
-# authoritative for any real entity or business.
-# NOTE: all fields and all sections are optional.
-
 [METADATA]
-modified = 2024–08–03T17:00:00.000Z
+modified = 2024–10–03T00:00:00.000Z
 
 [[VALIDATORS]]
 public_key = “nHUo41N6oPHPi7BWELn5LJdrmvtygsxoqkRFqAh6ogDZQ8Y1kZ1c”
 attestation = “23C8494C1BA6DD235ED0D3DE29A33816B03EC1DF5D81534A97748494FDBAF5FFA6CF378B8AF6D7D35DCFFDFB9755EFAD21206994841D1F18A9288D393B94F004”
 network = “main”
 owner_country = “au”
-
-[[UNLS]]
-provider = “XRP Ledger Foundation”
-unl = “https://vl.xrplf.org"
-
-[[UNLS]]
-provider = “Ripple Labs”
-unl = “https://vl.ripple.com"
-
-[[ACCOUNTS]]
-address = “rHHziVeHiyD9haSuNAXtSyaQmrdNPGCxA6”
-network = “main”
+server_country = “au”
+unl = “https://vl.ripple.com”
 
 [[PRINCIPALS]]
-name = “zerp.cloud”
+name = “Zerp Cloud”
 email = “chrissa.rampage@gmail.com”
 twitter = “@enthusiast_xrp”
-
-[[CURRENCIES]]
-code = “XRP”
-issuer = “XRPL”
-network = “main”
 
 # End of file
