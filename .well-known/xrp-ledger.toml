@@ -2,14 +2,17 @@
 modified = 2024–10–03T00:00:00.000Z
 
 [[VALIDATORS]]
-public_key = “nHUo41N6oPHPi7BWELn5LJdrmvtygsxoqkRFqAh6ogDZQ8Y1kZ1c”
-attestation = “23C8494C1BA6DD235ED0D3DE29A33816B03EC1DF5D81534A97748494FDBAF5FFA6CF378B8AF6D7D35DCFFDFB9755EFAD21206994841D1F18A9288D393B94F004”
-network = “main”
-owner_country = “au”
-server_country = “au”
-unl = “https://vl.ripple.com”
+public_key = "nHUo41N6oPHPi7BWELn5LJdrmvtygsxoqkRFqAh6ogDZQ8Y1kZ1c"
+attestation = "23C8494C1BA6DD235ED0D3DE29A33816B03EC1DF5D81534A97748494FDBAF5FFA6CF378B8AF6D7D35DCFFDFB9755EFAD21206994841D1F18A9288D393B94F004"
+network = "main"
+owner_country = "au"
+server_country = "au"
+
+[[UNLS]]
+provider = "Ripple Labs"
+unl = "https://vl.ripple.com"
 
 [[PRINCIPALS]]
-name = “zerp.cloud”
-email = “chrissa.rampage@gmail.com”
-twitter = “@enthusiast_xrp”
+name = "zerp.cloud"
+email = "chrissa.rampage@gmail.com"
+twitter = "@enthusiast_xrp"
