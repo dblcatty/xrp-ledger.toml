@@ -10,8 +10,6 @@ server_country = “au”
 unl = “https://vl.ripple.com”
 
 [[PRINCIPALS]]
-name = “Zerp Cloud”
+name = “zerp.cloud”
 email = “chrissa.rampage@gmail.com”
 twitter = “@enthusiast_xrp”
-
-# End of file
