@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
+address = "rhEeeC4XJeQW9Ah3WKfFnoctzpkXniMeMs"
 name = "CasinoCoin"
 
 [[TOKENS]]
-issuer = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-currency = "CSC"
-name = "CasinoCoin"
+issuer = "rhEeeC4XJeQW9Ah3WKfFnoctzpkXniMeMs"
+currency = "Langu"
+name = "LAN"
 desc = "CasinoCoin (CSC) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
