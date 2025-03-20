@@ -1,24 +1,7 @@
-[[ISSUERS]]
-address = "rhEeeC4XJeQW9Ah3WKfFnoctzpkXniMeMs"
-name = "CasinoCoin"
-
-[[TOKENS]]
-issuer = "rhEeeC4XJeQW9Ah3WKfFnoctzpkXniMeMs"
-currency = "Langu"
-name = "LAN"
-desc = "CasinoCoin (CSC) is a digital currency, developed specifically for the regulated gaming industry."
-icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
-
-[[TOKENS.WEBLINKS]]
-url = "https://casinocoin.im"
-type = "website"
-title = "Official Website"
-
-[[TOKENS.WEBLINKS]]
-url = "https://casinocoin.info"
-type = "website"
-title = "Token Info Dashboard"
-
-[[TOKENS.WEBLINKS]]
-url = "https://twitter.com/CasinoCoin"
-type = "socialmedia"
+[[CURRENCIES]]
+code = "TTT"
+issuer = "YOUR_ISSUER_ADDRESS"
+name = "UUU"
+icon = "https://s1.xrplmeta.org/icon/C676A0DE05.png"
+description = "Your token's description here..."
+asset_class = "fiat"
